@@ -37,7 +37,7 @@ function Home() {
       <header className="relative h-screen pt-20">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=2000&q=80"
+            src="https://www.shutterstock.com/shutterstock/photos/2139976221/display_1500/stock-photo-elegant-middle-age-business-woman-is-happy-and-satisfied-with-fast-and-reliable-towing-service-for-2139976221.jpg"
             alt="Modern car showroom"
             className="w-full h-full object-cover"
           />
